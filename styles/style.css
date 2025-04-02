@@ -1,0 +1,33 @@
+body {
+    background-color: #5f4b8b;
+}
+.register {
+    background-color: #5f4b8b;
+    margin: 0;
+    padding: 0;
+    width: 22%;
+    height: 40%;
+    border: solid 1px black;
+    text-align: center;
+}
+
+.placeholder, .password, .button, .don {
+    width: 80%;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.aa {
+    width: ;
+}
+
+i {
+    font-size: 20px;
+    
+}
+.bx {
+    color: aliceblue;
+}
+span {
+    color: black;
+}
